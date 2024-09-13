@@ -212,6 +212,8 @@ Enter a string: 1543
 
 ```
 Enter a string:
+
+
 ```
 
 ### Result:
