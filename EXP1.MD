@@ -101,33 +101,7 @@ Enter a positive value for END:
 Enter a valid positive number.
 ```
 
-### 3) for
-
-```
-def iterate():
-    string = input("Enter a string: ")
-    for i in string:
-        print(ord(i), end=" ")
-
-iterate()
-```
-### Output:
-
-```
-Enter a string: say 
-115 97 121
-```
-
-```
-Enter a string: 1543 
-49 53 52 51
-```
-
-```
-Enter a string:
-```
-
-### 4) switch
+### 3) switch
 
 ```
 def switch():
@@ -166,7 +140,7 @@ Enter a value for N:
 Enter a valid number.
 ```
 
-### 5)if...else
+### 4)if...else
 
 ```
 def compare():
@@ -212,6 +186,32 @@ Enter a valid number.
 Enter a value for A:
 Enter a value for B:
 Enter a valid number.
+```
+
+### 5) for
+
+```
+def iterate():
+    string = input("Enter a string: ")
+    for i in string:
+        print(ord(i), end=" ")
+
+iterate()
+```
+### Output:
+
+```
+Enter a string: say 
+115 97 121
+```
+
+```
+Enter a string: 1543 
+49 53 52 51
+```
+
+```
+Enter a string:
 ```
 
 ### Result:
