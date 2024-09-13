@@ -90,7 +90,7 @@ Matrix multiplication is not possible.
 ```
 
 ```
-Enter the size of a: - 1 -2
+Enter the size of a: -1 -2
 Enter the size of b: -2 3
 Matrix multiplication is not possible.
 ```
