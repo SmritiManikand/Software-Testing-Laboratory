@@ -36,6 +36,29 @@ display()
 ```
 ### Output:
 
+```
+Enter a positive value for START: 1
+Enter a positive value for END: 4
+1 2 3 4
+```
+
+```
+Enter a positive value for START: -10 
+Enter a positive value for END: 5 
+Enter a valid positive number.
+```
+
+```
+Enter a positive value for START: hello 
+Enter a positive value for END: y
+Enter a valid positive number.
+```
+
+```
+Enter a positive value for START:
+Enter a positive value for END:
+Enter a valid positive number.
+```
 
 
 ### 2) while
