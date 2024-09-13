@@ -1,6 +1,6 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                            
+### DATE: 13.09.2024                                                                           
 ### REGISTER NUMBER : 212221040157
 
 ### AIM:  
@@ -140,7 +140,7 @@ Enter a value for N:
 Enter a valid number.
 ```
 
-### 4)if...else
+### 4) if...else
 
 ```
 def compare():
