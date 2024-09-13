@@ -77,6 +77,29 @@ else:
 ```
 ### Output:
 
+```
+Enter a positive value for START: 1 
+Enter a positive value for END: 4
+1 2 3 4
+```
+
+```
+Enter a positive value for START: -10 
+Enter a positive value for END: 5 
+Enter a valid positive number.
+```
+
+```
+Enter a positive value for START: abc 
+Enter a positive value for END: 100 
+Enter a valid positive number.
+```
+
+```
+Enter a positive value for START: 
+Enter a positive value for END: 
+Enter a valid positive number.
+```
 
 ### 3) for
 
@@ -90,6 +113,19 @@ iterate()
 ```
 ### Output:
 
+```
+Enter a string: say 
+115 97 121
+```
+
+```
+Enter a string: 1543 
+49 53 52 51
+```
+
+```
+Enter a string:
+```
 
 ### 4) switch
 
@@ -110,6 +146,25 @@ switch()
 ```
 ### Output:
 
+```
+Enter a value for N: 1 
+odd
+```
+
+```
+Enter a value for N: -10 
+even
+```
+
+```
+Enter a value for N: hello 
+Enter a valid number.
+```
+
+```
+Enter a value for N:
+Enter a valid number.
+```
 
 ### 5)if...else
 
@@ -135,6 +190,29 @@ compare()
 ```
 ### Output:
 
+```
+Enter a value for A: 1 
+Enter a value for B: 1 
+A is equal to B.
+```
+
+```
+Enter a value for A: -10 
+Enter a value for B: 5 
+B is greater than A.
+```
+
+```
+Enter a value for A: hello 
+Enter a value for B: y 
+Enter a valid number.
+```
+
+```
+Enter a value for A:
+Enter a value for B:
+Enter a valid number.
+```
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
