@@ -36,6 +36,7 @@ display()
 ```
 ### Output:
 
+
 ```
 Enter a positive value for START: 1
 Enter a positive value for END: 4
@@ -76,6 +77,7 @@ else:
     print("Enter a valid positive number.")
 ```
 ### Output:
+<img width="959" alt="ex4" src="https://github.com/user-attachments/assets/929cb836-662e-4e7f-aa9e-527e85d021bf">
 
 ```
 Enter a positive value for START: 1 
