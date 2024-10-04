@@ -1,5 +1,3 @@
-# Ex.No: 5 To check the number is Armstrong number or not.
-
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
