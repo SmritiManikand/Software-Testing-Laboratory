@@ -1,4 +1,4 @@
-
+# Ex 5. Write a python program for Binary Search and inspect for failures.
 
 ### AIM: 
 Write a python program for Binary Search and inspect for failures.
