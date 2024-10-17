@@ -40,7 +40,7 @@ else:
 
 ### Output:
 
-<img width="959" alt="ex4" src="https://github.com/user-attachments/assets/dfefca6c-d880-44e7-bb04-d7cc2df3174d">
+<img width="959" alt="ex4" src="https://github.com/user-attachments/assets/ede266bb-191b-4a52-95ff-0106d6653367">
 
 
 ### Result:
