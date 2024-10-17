@@ -36,6 +36,7 @@ display()
 ```
 ### Output:
 
+<img width="958" alt="ex1a" src="https://github.com/user-attachments/assets/008d488e-1013-4b8d-960a-450e3ee7c5ce">
 
 
 ### 2) while
@@ -53,6 +54,9 @@ else:
     print("Enter a valid positive number.")
 ```
 ### Output:
+
+<img width="959" alt="ex1b" src="https://github.com/user-attachments/assets/477b18f3-9c9f-4e2a-88a3-6c294df3e577">
+
 
 ### 3) switch
 
@@ -72,6 +76,8 @@ def switch():
 switch()
 ```
 ### Output:
+
+<img width="959" alt="ex1c" src="https://github.com/user-attachments/assets/38a7442e-f6ba-4574-b16c-da047788b0a1">
 
 
 ### 4) if...else
@@ -98,6 +104,8 @@ compare()
 ```
 ### Output:
 
+<img width="959" alt="ex1d" src="https://github.com/user-attachments/assets/1f6db538-3802-49f1-84af-cf1a1c67ef4c">
+
 
 ### 5) for
 
@@ -111,6 +119,7 @@ iterate()
 ```
 ### Output:
 
+<img width="958" alt="ex1e" src="https://github.com/user-attachments/assets/25ead170-fb3c-4016-ba43-0507f1b9cc98">
 
 
 ### Result:
