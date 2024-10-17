@@ -65,6 +65,9 @@ else:
 
 ### Output:
 
+<img width="959" alt="ex2" src="https://github.com/user-attachments/assets/c7a83d6b-d339-45d6-9dfc-e7cb1ebdbaa4">
+
+
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
 
