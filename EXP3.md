@@ -41,6 +41,7 @@ else:
 
 ### Output:
 
+<img width="959" alt="ex3" src="https://github.com/user-attachments/assets/10324225-5ceb-473f-9c51-8993dfc7b4a9">
 
 
 ### Result:
