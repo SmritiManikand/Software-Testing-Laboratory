@@ -1,9 +1,12 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 04.10.2024     
+
+### REGISTER NUMBER : 212221040157
+
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
+
 ### Algorithm:
 1. Start
 2. Get an input from the user by prompting 
@@ -12,6 +15,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 5. If it is, return the result that it is a palindrome.
 6. Else, return that it is not a palindrome. 
 7. Stop the program.
+
 ### Program:
 
 
@@ -26,8 +30,6 @@ Write a Python program to check whether the string is Palindrome and generate te
 
 
 ### Output:
-
-
 
 
 
