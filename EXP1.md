@@ -1,11 +1,23 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
+
+
+
 ### DATE: 30.08.2024  
+
+
+
 
 ### REGISTER NUMBER : 212221040157
 
+
+
+
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test cases 
+
+
+
 
 ### Algorithm:
 1. Start the program.
@@ -13,8 +25,14 @@ To write python programs for do…while, while, for, switch and if…else and te
 3. Write simple program for each construct.
 4.  the program with possible test cases.
 5. Stop the program.
+
+
+
    
 ### Program:
+
+
+
 
 ### 1) do...while
 
@@ -37,9 +55,14 @@ def display():
 display()
 ```
 
+
+
+
 ### Output:
 
 <img width="958" alt="ex1a" src="https://github.com/user-attachments/assets/008d488e-1013-4b8d-960a-450e3ee7c5ce">
+
+
 
 
 ### 2) while
@@ -57,9 +80,15 @@ else:
     print("Enter a valid positive number.")
 ```
 
+
+
+
 ### Output:
 
 <img width="959" alt="ex1b" src="https://github.com/user-attachments/assets/477b18f3-9c9f-4e2a-88a3-6c294df3e577">
+
+
+
 
 
 ### 3) switch
@@ -79,6 +108,9 @@ def switch():
 
 switch()
 ```
+
+
+
 
 ### Output:
 
@@ -108,9 +140,17 @@ def compare():
 compare()
 ```
 
+
+
+
 ### Output:
 
 <img width="959" alt="ex1d" src="https://github.com/user-attachments/assets/1f6db538-3802-49f1-84af-cf1a1c67ef4c">
+
+
+
+
+
 
 
 ### 5) for
@@ -124,9 +164,18 @@ def iterate():
 iterate()
 ```
 
+
+
+
+
+
 ### Output:
 
 <img width="958" alt="ex1e" src="https://github.com/user-attachments/assets/25ead170-fb3c-4016-ba43-0507f1b9cc98">
+
+
+
+
 
 
 ### Result:
