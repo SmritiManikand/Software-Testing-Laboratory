@@ -1,6 +1,6 @@
 # Ex.No: 5 Write a python program for Binary Search and inspect for failures.
 
-### DATE: 27.09.2024      
+### DATE: 13.09.2024      
 
 ### REGISTER NUMBER : 212221040157
 
