@@ -1,4 +1,4 @@
-# Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
+# Ex.No: 4 Check the given number is Armstrong number or not and inspect for failures.
 ### DATE: 06.09.2024                                                                           
 ### REGISTER NUMBER : 212221040157
 ### AIM: 
